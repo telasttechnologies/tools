@@ -1,0 +1,5 @@
+Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\
+
+
+cmd.exe /s /k pushd "%V"
+
