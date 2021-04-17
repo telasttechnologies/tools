@@ -1,0 +1,5 @@
+Goto: Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\
+Create a new key called Command Prompt & put value "Open Command Prompt"
+Create a new key beneath the Command Prompt key called Command its value " cmd.exe /s /k pushd "%V" "
+
+
